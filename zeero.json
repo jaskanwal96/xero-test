@@ -1,0 +1,10 @@
+{
+      "type" : "button",
+      "name" : "Xero",
+      "icon" : "./employee.png",
+      "functionalize" : {
+      "internal_functionality": false,
+      "url" : "http://xero-test.tookanapp.com/",
+      "target" : "_self"
+       }
+}
