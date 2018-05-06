@@ -1,3 +1,45 @@
+[
+    {
+        "type": "button",
+        "name": "Dashboard",
+        "icon": "./1.png",
+        "functionalize": {
+            "internal_functionality": true,
+            "url": "#/app/dashboard",
+            "target": "_self"
+        }
+    },
+    {
+        "type": "button",
+        "name": "Employee",
+        "icon": "./2.png",
+        "functionalize": {
+            "internal_functionality": true,
+            "url": "#/app/settings/agents-list",
+            "target": "_self"
+        }
+    },
+    {
+        "type": "button",
+        "name": "Customer",
+        "icon": "./3.png",
+        "functionalize": {
+            "internal_functionality": true,
+            "url": "#/app/all-customers",
+            "target": "_self"
+        }
+    },
+    {
+        "type": "button",
+        "name": "Analytics",
+        "icon": "./4.png",
+        "functionalize": {
+            "internal_functionality": true,
+            "url": "#/app/analytics",
+            "target": "_self"
+        }
+    },
+    
 {
       "type" : "button",
       "name" : "Xero",
@@ -8,3 +50,5 @@
       "target" : "_self"
        }
 }
+]
+
