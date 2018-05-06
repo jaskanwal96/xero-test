@@ -47,7 +47,7 @@
       "functionalize" : {
       "internal_functionality": false,
       "url" : "http://xero-test.tookanapp.com/",
-      "target" : "_self"
+      "target" : "_blank"
        }
 }
 ]
