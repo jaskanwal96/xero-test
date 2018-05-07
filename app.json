@@ -1,12 +1,9 @@
 {
     "name" : "TestJasApp",
     "description" : "App for demonstration",
-    "details" : "This is an app skeleton that can be used to develop or integrate all new customisations to your Tookan Dashboard.",
+    "details" : "This is an app which integrate xero to create invoices.",
     "favicon" :  {
     "path": "./abc.png"
       },
-    "developer" : "Sunny Inc",
-    "abilities" : {
-    "side-menu" : true 
-      }
+    "developer" : "Sunny Inc"
 }
