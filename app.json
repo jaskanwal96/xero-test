@@ -5,5 +5,7 @@
     "favicon" :  {
     "path": "./abc.png"
       },
-    "developer" : "Sunny Inc"
+    "developer" : "Sunny Inc",
+    "abilities" : {
+    }
 }
