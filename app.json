@@ -1,6 +1,6 @@
 {
-    "name" : "TestJasApp",
-    "description" : "App for demonstration",
+    "name" : "Xero",
+    "description" : "Invoice App",
     "details" : "This is an app which integrate xero to create invoices.",
     "favicon" :  {
     "path": "./abc.png"
